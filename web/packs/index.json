@@ -1,0 +1,13 @@
+{
+  "packs": [
+    "cass_common.json",
+    "rabi.json",
+    "ribi.json",
+    "nms.json",
+    "haneki_old.json",
+    "tempest.json",
+    "galgame.json",
+    "100oj-default.json"
+  ],
+  "homeserver_url": "https://matrix.100oj.com"
+}
