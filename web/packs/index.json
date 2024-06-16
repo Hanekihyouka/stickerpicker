@@ -8,7 +8,9 @@
     "haneki_old.json",
     "tempest.json",
     "galgame.json",
-    "100oj-default.json"
+    "100oj-default.json",
+    "palworld.json",
+    "Blob_Cats.json"
   ],
   "homeserver_url": "https://matrix.100oj.com"
 }
